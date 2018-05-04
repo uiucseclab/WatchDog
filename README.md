@@ -9,6 +9,8 @@ https://connorlake.com/watchdog
 
 Log in with username "test@test.com" and password "test"
 
+![](https://i.imgur.com/DlNMo4D.png)
+
 ## Setup
 
 To set up this project, install on a web server with PHP and MySQL installed, and drop this project in the web accessible directory.
